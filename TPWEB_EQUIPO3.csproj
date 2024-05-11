@@ -67,12 +67,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CARRITO.aspx" />
+    <Content Include="CATEGORIAS.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HOME.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CARRITO.aspx.cs">
+      <DependentUpon>CARRITO.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CARRITO.aspx.designer.cs">
+      <DependentUpon>CARRITO.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CATEGORIAS.aspx.cs">
+      <DependentUpon>CATEGORIAS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CATEGORIAS.aspx.designer.cs">
+      <DependentUpon>CATEGORIAS.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
