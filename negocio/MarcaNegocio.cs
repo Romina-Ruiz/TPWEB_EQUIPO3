@@ -54,6 +54,47 @@ namespace negocio
         }
 
 
+        public List<Marca> listarSP()
+        {
+            List<Marca> lista = new List<Marca>();
+            AccesoDatos datos = new AccesoDatos();
+
+
+            try
+            {
+
+
+                datos.setearProcedimiento("storedlistar");
+                datos.ejecutarLectura();
+
+                while (datos.Lector.Read())
+                {
+                    Marca aux = new Marca();
+                    aux.CodMarca = (int)datos.Lector["Id"];
+                    aux.NombreMarca = (string)datos.Lector["Descripcion"];
+
+                    lista.Add(aux);
+                }
+
+                return lista;
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+
+            finally
+            {
+
+                datos.cerrarConexion();
+            }
+
+
+
+        }
+
         public void Agregar(Marca nuevo)
         {
             AccesoDatos datos = new AccesoDatos();

@@ -61,11 +61,11 @@
                 .footer{
 
                     margin: 0;
-                    background-color:coral;
+                    background-color:burlywood;
                     font-family: 'Times New Roman', Times, serif;
                     font-size:medium;
-                    color:aliceblue;
-                    position: center;
+                    color:black;
+                    position:center;
                     padding:2em;
                 }
 

@@ -15,7 +15,7 @@
             background-color: cornflowerblue;
             color: aliceblue;
             padding: 50px;
-            text-align: start;
+            text-align:center;
         }
     </style>
 
@@ -37,7 +37,7 @@
 
                 <div class="col">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="https://img.freepik.com/foto-gratis/fondo-verde-liso-alta-calidad_53876-104893.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class= "Card title"><%#Eval("Descripcion") %></h5>
                             <p class="Card-text"></p>
