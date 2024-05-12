@@ -10,13 +10,12 @@
 
 
 
-
     <style>
         .Fondo {
             background-color: cornflowerblue;
             color: aliceblue;
             padding: 50px;
-            text-align: center;
+            text-align: start;
         }
     </style>
 
@@ -29,10 +28,32 @@
 
     </div>
 
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+
+
+        <asp:Repeater ID="repRepetidor" runat="server">
+            <ItemTemplate>
+
+
+                <div class="col">
+                    <div class="card">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class= "Card title"><%#Eval("Descripcion") %></h5>
+                            <p class="Card-text"></p>
+                        </div>
+
+                    </div>
 
 
 
+                </div>
 
+            </ItemTemplate>
+        </asp:Repeater>
+
+
+    </div>
 
 </asp:Content>
 

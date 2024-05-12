@@ -57,3 +57,7 @@ C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\obj\D
 C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\obj\Debug\TPWEB_EQ.68625979.Up2Date
 C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\obj\Debug\TPWEB_EQUIPO3.dll
 C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\obj\Debug\TPWEB_EQUIPO3.pdb
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\bin\dominio.dll
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\bin\negocio.dll
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\bin\dominio.pdb
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\bin\negocio.pdb

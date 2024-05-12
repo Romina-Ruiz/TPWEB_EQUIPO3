@@ -61,3 +61,12 @@ C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Prod
 C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
 C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
 C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\bin\Debug\negocio.dll
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\bin\Debug\negocio.pdb
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\bin\Debug\dominio.dll
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\bin\Debug\dominio.pdb
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\obj\Debug\negocio.dll
+C:\Users\Romina\Documents\GitHub\TPWEB_EQUIPO3\TPWEB_EQUIPO3\TPWEB_EQUIPO3\negocio\obj\Debug\negocio.pdb

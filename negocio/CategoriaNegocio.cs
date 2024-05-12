@@ -40,6 +40,43 @@ namespace negocio
                 datos.cerrarConexion();
             }
         }
+
+
+
+        public List<Categoria> listarconSP()
+        {
+            List<Categoria> listaCategorias = new List<Categoria>();
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                datos.setearProcedimiento("storelistar");
+                datos.ejecutarLectura();
+
+               
+                while (datos.Lector.Read())
+                {
+                   Categoria aux = new Categoria();
+                   aux.Id = (int)datos.Lector["Id"];
+                   aux.Descripcion = (string)datos.Lector["Descripcion"];
+                   listaCategorias.Add(aux);
+
+                }
+
+                return listaCategorias;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
+
+
         public void agregar(Categoria nueva)
         {
             AccesoDatos datos= new AccesoDatos();
