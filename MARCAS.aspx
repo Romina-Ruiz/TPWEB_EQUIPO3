@@ -22,7 +22,7 @@
     <div class="Fondo">
 
 
-        <h2>MARCAS </h2>
+        <h2>NUESTRAS MARCAS </h2>
 
              </div>
 

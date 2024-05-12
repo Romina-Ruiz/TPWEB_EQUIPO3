@@ -99,6 +99,94 @@ namespace negocio
 
         }
 
+
+
+        public List<Articulo> listarSP()
+        {
+
+            List<Articulo> lista = new List<Articulo>();
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+
+
+                datos.setearProcedimiento("StoredListarArt");
+
+                datos.ejecutarLectura();
+
+                while (datos.Lector.Read())
+                {
+                    Articulo aux = new Articulo();
+
+                    aux.Id = (int)datos.Lector["Id"];
+
+                    if (!(datos.Lector.IsDBNull(datos.Lector.GetOrdinal("Codigo"))))
+                    {
+                        aux.Cod_Articulo = (string)datos.Lector["Codigo"];
+                    }
+                    if (!(datos.Lector.IsDBNull(datos.Lector.GetOrdinal("Nombre"))))
+                    {
+                        aux.Nombre_Articulo = (string)datos.Lector["Nombre"];
+                    }
+                    if (!(datos.Lector.IsDBNull(datos.Lector.GetOrdinal("Descripcion"))))
+                    {
+                        aux._Descripcion = (string)datos.Lector["Descripcion"];
+                    }
+                    if (!(datos.Lector["Precio"] is DBNull))
+                    {
+                        decimal cantidad = (decimal)datos.Lector["Precio"];
+                        aux.Precio = (float)cantidad;
+                    }
+
+                    aux.Id_marca = (int)datos.Lector["IdMarca"];
+                    aux.Id_cate = (int)datos.Lector["Id"];
+
+
+                    if (!(datos.Lector["des_marca"] is DBNull))
+                    {
+                        aux.des_marca = (string)datos.Lector["des_marca"];
+                    }
+                    if (!(datos.Lector["des_categoria"] is DBNull))
+                    {
+                        aux.des_categoria = (string)datos.Lector["des_categoria"];
+                    }
+
+                    //IMAGENES
+                    if (!(datos.Lector["ImagenUrl"] is DBNull))
+                    {
+                        aux.urlImagen = (string)datos.Lector["ImagenUrl"];
+                    }
+
+                    aux.IdArticulo = (int)datos.Lector["IdArticulo"];
+
+                    aux.Id_imagen = (int)datos.Lector["Id_img"];
+
+                    lista.Add(aux);
+                }
+
+                return lista;
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+
+        }
+
+
+
+
+
+
+
         public Articulo UltimoId()
         {
             Articulo ultimoArticulo = new Articulo();

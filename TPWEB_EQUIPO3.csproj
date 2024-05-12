@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="CARRITO.aspx" />
     <Content Include="CATEGORIAS.aspx" />
+    <Content Include="COMPRAR.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HOME.aspx" />
@@ -89,6 +90,13 @@
     </Compile>
     <Compile Include="CATEGORIAS.aspx.designer.cs">
       <DependentUpon>CATEGORIAS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRAR.aspx.cs">
+      <DependentUpon>COMPRAR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COMPRAR.aspx.designer.cs">
+      <DependentUpon>COMPRAR.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>

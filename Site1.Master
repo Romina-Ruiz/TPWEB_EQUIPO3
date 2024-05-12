@@ -36,6 +36,7 @@
                           <ul class="dropdown-menu">
                               <li><a class="dropdown-item" href="CATEGORIAS.aspx">CATEGORIAS</a></li>
                               <li><a class="dropdown-item" href="MARCAS.aspx">MARCAS</a></li>
+                               <li><a class="dropdown-item" href="COMPRAR.aspx">COMPRAR</a></li>
                               <li>
                                   <hr class="dropdown-divider">
                               </li>

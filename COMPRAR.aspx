@@ -1,21 +1,18 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="CATEGORIAS.aspx.cs" Inherits="TPWEB_EQUIPO3.CATEGORIAS" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="COMPRAR.aspx.cs" Inherits="TPWEB_EQUIPO3.COMPRAR" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 
 
-
-
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
 
 
     <style>
         .Fondo {
-            background-color: cornflowerblue;
+            background-color: darkslategray;
             color: aliceblue;
             padding: 50px;
-            text-align:center;
+            text-align: center;
         }
     </style>
 
@@ -23,24 +20,25 @@
     <div class="Fondo">
 
 
-        <h2>NUESTRAS CATEGORIAS </h2>
+        <h2>NUESTROS ARTICULOS</h2>
 
 
     </div>
 
+
     <div class="row row-cols-1 row-cols-md-3 g-4">
 
 
-        <asp:Repeater ID="repRepetidor" runat="server">
+        <asp:Repeater ID="repArticulos" runat="server">
             <ItemTemplate>
 
 
                 <div class="col">
                     <div class="card">
-                        <img src="https://img.freepik.com/foto-gratis/fondo-verde-liso-alta-calidad_53876-104893.jpg" class="card-img-top" alt="...">
+                        <img src="<%#Eval("urlImagen") %>" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class= "Card title"><%#Eval("Descripcion") %></h5>
-                            <p class="Card-text"></p>
+                            <h5 class="Card title"><%#Eval("Nombre_Articulo") %></h5>
+                            <p class="Card-text"><%#Eval("_Descripcion") %></p>
                         </div>
 
                     </div>
@@ -50,11 +48,14 @@
                 </div>
 
             </ItemTemplate>
-        </asp:Repeater>
+        </asp:Repeater>  
 
 
     </div>
 
+
+
+
+
+
 </asp:Content>
-
-
