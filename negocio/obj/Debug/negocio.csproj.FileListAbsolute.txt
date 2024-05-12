@@ -1,0 +1,63 @@
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\bin\Debug\negocio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\negocio\obj\Debug\negocio.pdb

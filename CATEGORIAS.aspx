@@ -1,8 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="CATEGORIAS.aspx.cs" Inherits="TPWEB_EQUIPO3.CATEGORIAS" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-
-      
-
 </asp:Content>
 
 
@@ -13,34 +11,29 @@
 
 
 
-        <style>
-
-    .Fondo{
-
-        background-color:cornflowerblue;
-
-        color: aliceblue;
-        padding: 50px;
-        text-align: center;
-
-    }
-
-</style>
-   
-
-<div class="Fondo">   
-
-       
-     <h2>         CATEGORIAS </h2>
+    <style>
+        .Fondo {
+            background-color: cornflowerblue;
+            color: aliceblue;
+            padding: 50px;
+            text-align: center;
+        }
+    </style>
 
 
-</div>
+    <div class="Fondo">
+
+
+        <h2>CATEGORIAS </h2>
+
+
+    </div>
 
 
 
 
 
-    
+
 </asp:Content>
-  
+
 

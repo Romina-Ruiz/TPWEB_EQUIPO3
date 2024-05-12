@@ -1,0 +1,42 @@
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\Romina\Desktop\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\Romina\Documents\GitHub\ABM Productos\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\jonat\Desktop\Repositorio GitHub\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_nuevo\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\bin\Debug\dominio.pdb
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.dll
+C:\Users\hugo_\OneDrive\Documentos\PROGRAMACION\C#\ABM_ultimo_entregado\ABM-Productos\ABM Productos\dominio\obj\Debug\dominio.pdb

@@ -34,7 +34,7 @@
 
             </h2>
 
-            <a href="HOME.aspx">ingresar</a>
+            <a href="HOME.aspx">Ingresar</a>
 
 
         </div>
