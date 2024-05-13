@@ -39,6 +39,7 @@
                         <div class="card-body">
                             <h5 class="Card title"><%#Eval("Nombre_Articulo") %></h5>
                             <p class="Card-text"><%#Eval("_Descripcion") %></p>
+                            <asp:Button Text="Ver detalle" runat="server" OnClick="Unnamed_Click" />
                         </div>
 
                     </div>
