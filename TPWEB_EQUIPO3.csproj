@@ -73,7 +73,9 @@
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HOME.aspx" />
+    <Content Include="Models\StyHome.css" />
     <Content Include="Models\styloDefault.css" />
+    <Content Include="styloHome.css" />
     <Content Include="Web.config" />
     <Content Include="MARCAS.aspx" />
   </ItemGroup>

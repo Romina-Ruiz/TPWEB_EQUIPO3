@@ -5,7 +5,7 @@
 <html>
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title></title>
+    <title>Carrito UTN</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 
@@ -20,7 +20,7 @@
 <body>
     <form id="form1" runat="server">
 
-              <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
               <a class="navbar-brand" href="Default.aspx">INICIO</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,9 +33,8 @@
                       <li class="nav-item dropdown">
                           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">PRODUCTOS
                           </a>
-                          <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="CATEGORIAS.aspx">CATEGORIAS</a></li>
-                              <li><a class="dropdown-item" href="MARCAS.aspx">MARCAS</a></li>
+                          <ul class="dropdown-menu">                              
+                              
                                <li><a class="dropdown-item" href="COMPRAR.aspx">COMPRAR</a></li>
                               <li>
                                   <hr class="dropdown-divider">
@@ -54,7 +53,7 @@
         </asp:ContentPlaceHolder>
 
 
-        <footer>
+        <footer class="piePag>
 
            
             <style> 
