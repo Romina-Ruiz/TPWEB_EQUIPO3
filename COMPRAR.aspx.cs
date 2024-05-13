@@ -20,7 +20,7 @@ namespace TPWEB_EQUIPO3
 
             ArticuloNegocio negocio=new ArticuloNegocio();
 
-            ListaArticulos = negocio.listarSP();
+            ListaArticulos = negocio.listar();
 
            repArticulos.DataSource=ListaArticulos;
            repArticulos.DataBind();

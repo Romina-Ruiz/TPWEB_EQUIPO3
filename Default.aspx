@@ -5,38 +5,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+<link href="Models/styloDefault.css" rel="stylesheet" />
+    
+    <title>Bienvenidos</title>
 </head>
-<body>
+
+<body id="fondo">
     <form id="form1" runat="server">
        
-        
-        <style>
-
-     .Fondo{
-
-         background-color:burlywood;
-
-         color: aliceblue;
-         padding: 300px;
-         text-align: center;
-
-     }
-
- </style>
+   
+        <div class="contenedorBienvenido">
+           <div class="texto">              
+               <h2>BIENVENIDOS</h2>
+           </div>
+        </div>
 
         
-        <div class="Fondo">
-
-            <h2>    
-
-                BIENVENIDOS
-
-            </h2>
-
-            <a href="HOME.aspx">Ingresar</a>
-
-
+        <div class="ingresar">  
+            <div class="texto2">
+                <a href="HOME.aspx" ="ingresar"><img src="IMAGENES/carrito-de-compras.gif" alt="imagen"/></a>           
+            </div>
         </div>
     </form>
 </body>
