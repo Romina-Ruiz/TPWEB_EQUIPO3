@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,13 +52,14 @@
               "RelativeDocumentMoniker": "COMPRAR.aspx.cs",
               "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
               "RelativeToolTip": "COMPRAR.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAjwCEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T23:24:01.116Z"
+              "WhenOpened": "2024-05-13T23:24:01.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "COMPRAR.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx",
               "RelativeDocumentMoniker": "COMPRAR.aspx",
@@ -66,11 +67,12 @@
               "RelativeToolTip": "COMPRAR.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-13T23:18:08.378Z"
+              "WhenOpened": "2024-05-13T23:18:08.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -95,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HOME.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\HOME.aspx",
               "RelativeDocumentMoniker": "HOME.aspx",
@@ -103,19 +105,21 @@
               "RelativeToolTip": "HOME.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-13T21:10:18.786Z"
+              "WhenOpened": "2024-05-13T21:10:18.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Site1.Master.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master.cs",
               "RelativeDocumentMoniker": "Site1.Master.cs",
               "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master.cs",
               "RelativeToolTip": "Site1.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T21:09:19.429Z"
+              "WhenOpened": "2024-05-13T21:09:19.429Z",
+              "EditorCaption": ""
             }
           ]
         }
