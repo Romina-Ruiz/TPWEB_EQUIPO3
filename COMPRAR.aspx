@@ -1,6 +1,9 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="COMPRAR.aspx.cs" Inherits="TPWEB_EQUIPO3.COMPRAR" %>
 
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+ 
+
 </asp:Content>
 
 
@@ -40,12 +43,17 @@
         <img src="<%#Eval("urlImagen") %>" class="card-img-top" alt="...">
         <div cssclass="card-body">
             <h5 cssclass="Card title"><%#Eval("Nombre_Articulo") %></h5>
-            <p cssclass="Card-text"><%#Eval("_Descripcion") %></p>
-             </div> 
+            <p cssclass="Card-text"><%#Eval("_Descripcion") %></p>           
+            
+        </div> 
         <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
   Ver detalles
 </button>
+
+        <asp:Button ID="Button1" class="btn btn-primary" runat="server" Text="Agregar al carrito" OnClientClick="Button1" />
+     
+        
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -66,7 +74,8 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Salir</button>
-        <button type="button" class="btn btn-primary">Agregar al carrito</button>
+        <!--<button type="button23" class="btn btn-primary">Agregar</button>-->
+          
       </div>
     </div>
   </div>

@@ -2,6 +2,7 @@
 using negocio;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Web;
 using System.Web.Configuration;
@@ -15,7 +16,7 @@ namespace TPWEB_EQUIPO3
     public partial class COMPRAR : System.Web.UI.Page
     {
 
-        public List<Articulo> ListaArticulos { get; set; }
+        public List<Articulo> ListaArticulos; //{ get; set; }
 
         protected void cargar()
         {
@@ -29,16 +30,15 @@ namespace TPWEB_EQUIPO3
         protected void Page_Load(object sender, EventArgs e)
         {
 
-           cargar();
-           
+           cargar();      
 
         }
         protected void Unnamed_Click(object sender, EventArgs e)
-        {
-            cargar();
+        {                 
+            cargar();          
+           
         }
-       
+        
 
-       
-   }
     }
+ }

@@ -1,5 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="TPWEB_EQUIPO3.Site1" %>
 
+
 <!DOCTYPE html>
 
 <html>
@@ -8,6 +9,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Carrito UTN</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
+       
     </asp:ContentPlaceHolder>
 
                       <form class="row g-3 justify-content-center">
