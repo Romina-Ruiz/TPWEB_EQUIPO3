@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Configuration;
 using System.Web.Management;
 using System.Web.UI;
 using System.Web.UI.HtmlControls;
@@ -14,36 +15,30 @@ namespace TPWEB_EQUIPO3
     public partial class COMPRAR : System.Web.UI.Page
     {
 
-
         public List<Articulo> ListaArticulos { get; set; }
 
+        protected void cargar()
+        {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+
+            ListaArticulos = negocio.listar();
+            rpArticulos.DataSource = ListaArticulos;
+            rpArticulos.DataBind();
+
+        }
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            ArticuloNegocio negocio=new ArticuloNegocio();
-
-            ListaArticulos = negocio.listar();
-
-           repArticulos.DataSource=ListaArticulos;
-           repArticulos.DataBind();
-
-
+           cargar();
+           
 
         }
-
-        protected void Unnamed_Click(object sender, EventArgs e )
+        protected void Unnamed_Click(object sender, EventArgs e)
         {
-            Articulo articulo;
-            Button btn = (Button)sender;
-            int articuloID = Convert.ToInt32(btn.CommandArgument);
-            foreach (Articulo item in ListaArticulos)
-            {
-                articulo = ListaArticulos[articuloID];
-             
-            }
-
-
+            cargar();
         }
+       
 
-        }
+       
+   }
     }
