@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\jonat\\desktop\\trabajo_web\\tpweb_equipo3\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\jonat\\desktop\\trabajo_web\\tpweb_equipo3\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -17,22 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\jonat\\desktop\\trabajo_web\\tpweb_equipo3\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\jonat\\desktop\\trabajo_web\\tpweb_equipo3\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CARRITO.aspx.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
               "RelativeDocumentMoniker": "CARRITO.aspx.cs",
               "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
               "RelativeToolTip": "CARRITO.aspx.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T02:51:50.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CARRITO.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx",
               "RelativeDocumentMoniker": "CARRITO.aspx",
@@ -84,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DetalleArticulo.aspx.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx.cs",
               "RelativeDocumentMoniker": "DetalleArticulo.aspx.cs",
               "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx.cs",
               "RelativeToolTip": "DetalleArticulo.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T23:33:06.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DetalleArticulo.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx",
               "RelativeDocumentMoniker": "DetalleArticulo.aspx",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "COMPRAR.aspx.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
               "RelativeDocumentMoniker": "COMPRAR.aspx.cs",
@@ -118,11 +118,12 @@
               "RelativeToolTip": "COMPRAR.aspx.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T23:24:01.116Z"
+              "WhenOpened": "2024-05-13T23:24:01.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "COMPRAR.aspx",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx",
               "RelativeDocumentMoniker": "COMPRAR.aspx",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Site1.Master.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master.cs",
               "RelativeDocumentMoniker": "Site1.Master.cs",
@@ -143,12 +144,11 @@
               "RelativeToolTip": "Site1.Master.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:12:23.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:12:23.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",
