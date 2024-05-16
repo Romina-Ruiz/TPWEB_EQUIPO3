@@ -71,6 +71,7 @@
     <Content Include="CATEGORIAS.aspx" />
     <Content Include="COMPRAR.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="DetalleArticulo.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HOME.aspx" />
     <Content Include="Models\StyHome.css" />
@@ -107,6 +108,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleArticulo.aspx.cs">
+      <DependentUpon>DetalleArticulo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetalleArticulo.aspx.designer.cs">
+      <DependentUpon>DetalleArticulo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

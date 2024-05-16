@@ -11,16 +11,16 @@ namespace TPWEB_EQUIPO3
 {
 
 
-    public partial class COMPRAR
+    public partial class DetalleArticulo
     {
 
         /// <summary>
-        /// rpArticulos control.
+        /// rpArticulo control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpArticulos;
+        protected global::System.Web.UI.WebControls.Repeater rpArticulo;
     }
 }
