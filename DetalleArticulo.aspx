@@ -19,7 +19,7 @@
     <p class="card-text"><%#Eval("des_categoria") %></p>
     <p class="card-text"><%#Eval("des_marca") %></p>
     <a href="COMPRAR.aspx" class="btn btn-outline-secondary">Volver</a>
-    <a href="CARRITO.aspx" class="btn btn-outline-primary">Agregar al carrito</a>
+    <a href="CARRITO.aspx?id=<%#Eval("id") %>"" class="btn btn-outline-primary">Agregar al carrito</a>
   </div>
 </div>
 
