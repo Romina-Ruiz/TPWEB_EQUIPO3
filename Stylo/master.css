@@ -1,0 +1,16 @@
+﻿body {
+    min-height: 100vh;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    background: lightpink;
+    position: absolute; 
+    width: 100%;
+}
+
+    footer .contactanos {
+        color: white;       
+        padding: 15px 15px;
+        font-size: 20px;
+    }

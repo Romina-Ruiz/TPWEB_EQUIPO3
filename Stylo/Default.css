@@ -1,0 +1,26 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    background: lightpink;
+}
+
+.contenedorBienvenido .texto {
+
+    text-align: center;
+    color: white; 
+
+}
+
+.ingresar .texto2 {
+    text-align: center;    
+    transform: scale(0.5);  
+}
+
+    .ingresar .texto2 img {
+        border-radius: 500px;
+        opacity: 1;
+        transition: opacity 0.5s ease;
+    }
+
+.texto2 img:hover {
+    opacity: 0.5;
+}
