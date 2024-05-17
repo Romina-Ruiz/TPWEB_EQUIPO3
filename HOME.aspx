@@ -1,18 +1,17 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="HOME.aspx.cs" Inherits="TPWEB_EQUIPO3.HOME" %>
 
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <link href="Models/StyHome.css" rel="stylesheet" />
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">    
+    <link href="Stylo/home.css" rel="stylesheet" />
 </asp:Content>
 
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 
-    <div class="Fondo">
+    <div class="fondo">
 
         <h2>HOME PAGE </h2>
-
 
     </div>
 
