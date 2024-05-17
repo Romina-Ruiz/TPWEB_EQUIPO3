@@ -1,41 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\",
+  "WorkspaceRootPath": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\hugo_\\onedrive\\documentos\\programacion\\c#\\carrito\\tpweb_equipo3\\stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\jonat\\desktop\\trabajo_web\\tpweb_equipo3\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\hugo_\\onedrive\\documentos\\programacion\\c#\\carrito\\tpweb_equipo3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -46,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T15:07:28.266Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -59,100 +52,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CARRITO.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
-              "RelativeDocumentMoniker": "CARRITO.aspx.cs",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
-              "RelativeToolTip": "CARRITO.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T02:51:50.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CARRITO.aspx",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx",
-              "RelativeDocumentMoniker": "CARRITO.aspx",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\CARRITO.aspx",
-              "RelativeToolTip": "CARRITO.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-16T02:41:59.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DetalleArticulo.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx.cs",
-              "RelativeDocumentMoniker": "DetalleArticulo.aspx.cs",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx.cs",
-              "RelativeToolTip": "DetalleArticulo.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T23:33:06.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetalleArticulo.aspx",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx",
-              "RelativeDocumentMoniker": "DetalleArticulo.aspx",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\DetalleArticulo.aspx",
-              "RelativeToolTip": "DetalleArticulo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-15T23:10:54.326Z",
+              "Title": "Default.css",
+              "DocumentMoniker": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Stylo\\Default.css",
+              "RelativeDocumentMoniker": "Stylo\\Default.css",
+              "ToolTip": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Stylo\\Default.css",
+              "RelativeToolTip": "Stylo\\Default.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-17T15:07:19.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "COMPRAR.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
-              "RelativeDocumentMoniker": "COMPRAR.aspx.cs",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
-              "RelativeToolTip": "COMPRAR.aspx.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T23:24:01.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "COMPRAR.aspx",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx",
-              "RelativeDocumentMoniker": "COMPRAR.aspx",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\COMPRAR.aspx",
-              "RelativeToolTip": "COMPRAR.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-13T23:18:08.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Site1.Master.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master.cs",
-              "RelativeDocumentMoniker": "Site1.Master.cs",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master.cs",
-              "RelativeToolTip": "Site1.Master.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:12:23.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master",
+              "DocumentMoniker": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\Site1.Master",
+              "ToolTip": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\Site1.Master",
               "RelativeToolTip": "Site1.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -161,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "HOME.aspx",
-              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\HOME.aspx",
+              "DocumentMoniker": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\HOME.aspx",
               "RelativeDocumentMoniker": "HOME.aspx",
-              "ToolTip": "C:\\Users\\jonat\\Desktop\\trabajo_web\\TPWEB_EQUIPO3\\HOME.aspx",
+              "ToolTip": "C:\\Users\\hugo_\\OneDrive\\Documentos\\PROGRAMACION\\C#\\CARRITO\\TPWEB_EQUIPO3\\HOME.aspx",
               "RelativeToolTip": "HOME.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

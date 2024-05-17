@@ -74,9 +74,7 @@
     <Content Include="DetalleArticulo.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HOME.aspx" />
-    <Content Include="Models\StyHome.css" />
-    <Content Include="Models\styloDefault.css" />
-    <Content Include="styloHome.css" />
+    <Content Include="Stylo\Default.css" />
     <Content Include="Web.config" />
     <Content Include="MARCAS.aspx" />
   </ItemGroup>
@@ -154,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="dominio\dominio.csproj">
