@@ -6,6 +6,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using negocio;
 using dominio;
+using System.ComponentModel.DataAnnotations;
+
 
 namespace TPWEB_EQUIPO3
 {
@@ -14,6 +16,8 @@ namespace TPWEB_EQUIPO3
         public List<Articulo> ListaArticulos;
         protected void Page_Load(object sender, EventArgs e)
         {
+
+                      
             if (Request.QueryString["id"] != null)
             {
             int id = int.Parse(Request.QueryString["id"].ToString());
@@ -36,6 +40,23 @@ namespace TPWEB_EQUIPO3
             
            
             
+        }
+
+        protected void btnAceptar_Click(object sender, EventArgs e)
+        {
+
+            /* string nombre=((Button)sender).CommandArgument;
+
+
+            Articulo art= new Articulo();
+
+
+
+             List<Articulo> Temporal = (List<Articulo>)Session["listacarrito"];
+             Temporal.Add(art);
+
+             Response.Redirect("CARRITO.aspx");*/
+
         }
     }
 }

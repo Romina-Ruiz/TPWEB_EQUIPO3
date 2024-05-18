@@ -13,13 +13,14 @@
 <div class="card" >
   <img src="<%#Eval("urlImagen") %>" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title"><%#Eval("Nombre_Articulo") %></h5>
-    <p class="card-text"><%#Eval("_Descripcion") %></p>
-    <p class="card-text"><%#Eval("Precio") %></p>
-    <p class="card-text"><%#Eval("des_categoria") %></p>
-    <p class="card-text"><%#Eval("des_marca") %></p>
+      <asp:Label ID="lbNombre" runat="server" Text='<%#Eval("Nombre_Articulo") %>' CssClass="card-Tittle"></asp:Label>
+      <asp:Label ID="Lbprecio" runat="server" Text='<%#Eval("Precio") %>' CssClass="card-text"></asp:Label>
+      <p class="card-descripcion"><%#Eval("_Descripcion") %></p>
+      <p class="card-categoria"><%#Eval("des_categoria") %></p>
+    <p class="card-marca"><%#Eval("des_marca") %></p>
     <a href="COMPRAR.aspx" class="btn btn-outline-secondary">Volver</a>
-    <a href="CARRITO.aspx?id=<%#Eval("id") %>"" class="btn btn-outline-primary">Agregar al carrito</a>
+    <a href="CARRITO.aspx?id=<%#Eval("id") %>" cssclass="btn btn-primary">Comprar</a>
+        
   </div>
 </div>
 

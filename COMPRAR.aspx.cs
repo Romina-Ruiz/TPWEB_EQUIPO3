@@ -23,8 +23,16 @@ namespace TPWEB_EQUIPO3
             ArticuloNegocio negocio = new ArticuloNegocio();
 
             ListaArticulos = negocio.listar();
-            rpArticulos.DataSource = ListaArticulos;
-            rpArticulos.DataBind();
+
+            if (!IsPostBack)
+            {
+                rpArticulos.DataSource = ListaArticulos;
+                rpArticulos.DataBind();
+
+            }
+           
+
+
 
         }
         protected void Page_Load(object sender, EventArgs e)
