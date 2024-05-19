@@ -53,24 +53,12 @@ namespace TPWEB_EQUIPO3
 
             List<Articulo> listafiltrada;
 
-            string filtro = tbxbuscar.ToString();
+            listafiltrada = ListaArticulos.FindAll(x => x.Nombre_Articulo.ToUpper().Contains(tbxbuscar.Text.ToUpper()) || x.des_categoria.ToUpper().Contains(tbxbuscar.Text.ToUpper()));
 
-            if (filtro.Length >= 3)
-            {
-                listafiltrada = ListaArticulos.FindAll(x => x.Nombre_Articulo.ToUpper().Contains(filtro.ToUpper()) || x.des_categoria.ToUpper().Contains(filtro.ToUpper()));
-
-            }
-            else
-            {
-
-                listafiltrada = ListaArticulos;
-
-            }
+          
 
 
-
-
-            //rpArticulos.DataSource = null;
+            rpArticulos.DataSource = null;
             rpArticulos.DataSource = listafiltrada;
             rpArticulos.DataBind();
 

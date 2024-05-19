@@ -27,39 +27,56 @@
 
     <div class="table-secondary">
          <div class="col-sm-9 p-3">
-             
-        <asp:GridView ID="dgvCarrito" DataKeyNames="Id" OnSelectedIndexChanged="dgvCarrito_SelectedIndexChanged" runat="server" cssClass="table table-secondary dark" AutoGenerateColumns="false">
-                      
- 
-            <columns>
-
-             
-                <asp:BoundField HeaderText="Nombre" DataField="Nombre_Articulo"/>
-                <asp:BoundField HeaderText="Precio" DataField="Precio"/>
-                <asp:Commandfield ShowSelectButton="true" SelectText="Eliminar Articulo" HeaderText="Accion"/>
+            
+             <asp:Repeater ID="rpCarrito" runat="server" >
+                 <ItemTemplate> 
 
 
-                        </columns>
-                         
-              
-        </asp:GridView>
+                     <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row g-0">
+                     <div class="col-md-4">
+                     <img src="<%#Eval("urlImagen") %>" class="img-fluid rounded-start" alt="...">
+                     
+                     </div>
+                    <div class="col-md-8">
+                       <div class="card-body">
+                         <asp:Label ID="lbNombre" runat="server" Text='<%#Eval("Nombre_Articulo") %>' CssClass="card-Tittle"></asp:Label>
+                         <asp:Label ID="Lbprecio" runat="server" Text='<%#Eval("Precio") %>' CssClass="card-text"></asp:Label>
+
+                            <br />  
+                            <br />  
+                            <br />  
+                           <asp:Button Text="Eliminar" ID="btEliminar" CommandArgument='<%#Eval("id") %>' CommandName="Eliminar" class="btn btn-danger" OnClick="btEliminar_Click" runat="server" />
+
+                      </div>
+                    </div>
+                    </div>
+                </div>
+
+
+
+
+                 </ItemTemplate>
+             </asp:Repeater>
+
+                
+
+
+
+
+                    </div>
+
               </div>
 
-        <div class="col-md-4"">
-              
+        <div class="col-md-6"">
+            <br />  
+            
             <a href="COMPRAR.aspx" class="btn btn-dark">VOLVER</a>
-
+             
+            <br />  
         </div>
       
-
-
-    </div>
-
-
-
-
-
-
+       
 
 
 

@@ -12,8 +12,8 @@ namespace TPWEB_EQUIPO3
 {
     public partial class CARRITO : System.Web.UI.Page
     {
-                          
 
+        public List<Articulo> listacarrito;
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -27,36 +27,50 @@ namespace TPWEB_EQUIPO3
             
             Session.Add("listacarrito", listacarrito);
 
-                       
+            rpCarrito.DataSource = listacarrito;
+            rpCarrito.DataBind();
+
+
             int id = int.Parse(Request.QueryString["id"]);
-         
-            
+
+
+
                 Articulo seleccionado = listaOriginal.Find(x => x.Id == id);
                 listacarrito.Add(seleccionado);
 
-                dgvCarrito.DataSource = listacarrito;
-                dgvCarrito.DataBind();
+                rpCarrito.DataSource = listacarrito;
+                rpCarrito.DataBind();
 
-                  
+
+
             
-
         }
 
-        protected void dgvCarrito_SelectedIndexChanged(object sender, EventArgs e)
+        
+    
+
+
+        protected void btEliminar_Click(object sender, EventArgs e)
         {
-            /*
-            int id =int.Parse(dgvCarrito.SelectedDataKey.Value.ToString());
 
-          
+           int aux = int.Parse(((Button)sender).CommandArgument);
+
+
             List<Articulo> temporal = (List<Articulo>)Session["listacarrito"];
-           
-            Articulo seleccionado= temporal.Find(x => x.Id == id);
-            temporal.Remove(seleccionado);
-            Session["listacarrito"]= temporal;
 
-          // dgvCarrito.DataSource = Session["listacarrito"];
-          // dgvCarrito.DataBind();
-            */
+            Articulo seleccionado = temporal.Find(x => x.Id == aux);
+            temporal.Remove(seleccionado);
+            Session["listacarrito"] = temporal;
+
+            
+            
+                rpCarrito.DataSource = null;
+                rpCarrito.DataSource = Session["listacarrito"];
+                rpCarrito.DataBind();
+
+            
+
+
 
         }
     }

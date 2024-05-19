@@ -20,6 +20,8 @@
     <p class="card-marca"><%#Eval("des_marca") %></p>
     <a href="COMPRAR.aspx" class="btn btn-dark">Volver</a>
     <a href="CARRITO.aspx?id=<%#Eval("id") %>" class="btn btn-danger">Comprar</a>
+    
+     
         
   </div>
 </div>

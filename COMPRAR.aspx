@@ -40,21 +40,22 @@
             <ItemTemplate> 
 
                 
-<div cssclass="col">
+        <div cssclass="col">
 
-    <div cssclass="card">
-        <img src="<%#Eval("urlImagen") %>" class="card-img-top" alt="...">
-        <div cssclass="card-body">
-            <h5 cssclass="Card title"><%#Eval("Nombre_Articulo") %></h5>
-            <p cssclass="Card-text"><%#Eval("_Descripcion") %></p>           
-            <a href="DetalleArticulo.aspx?id=<%#Eval("id") %>" class="btn btn-dark">Ver detalles</a>
-        </div> 
+         <div cssclass="card">
+              <img src="<%#Eval("urlImagen") %>" class="card-img-top" alt="...">
+                <div cssclass="card-body">
+                <h5 cssclass="Card title"><%#Eval("Nombre_Articulo") %></h5>
+                <p cssclass="Card-text"><%#Eval("_Descripcion") %></p>           
+             <a href="DetalleArticulo.aspx?id=<%#Eval("id") %>" class="btn btn-dark">Ver detalles</a>
+        
+                </div> 
 
 
         <%--<asp:Button ID="Button1" class="btn btn-primary" runat="server" Text="Agregar al carrito" OnClientClick="Button1" />--%>
      
-    </div>
-     </div>
+             </div>
+             </div>
             </ItemTemplate>
         </asp:Repeater>
        
