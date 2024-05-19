@@ -18,8 +18,8 @@
       <p class="card-descripcion"><%#Eval("_Descripcion") %></p>
       <p class="card-categoria"><%#Eval("des_categoria") %></p>
     <p class="card-marca"><%#Eval("des_marca") %></p>
-    <a href="COMPRAR.aspx" class="btn btn-outline-secondary">Volver</a>
-    <a href="CARRITO.aspx?id=<%#Eval("id") %>" cssclass="btn btn-primary">Comprar</a>
+    <a href="COMPRAR.aspx" class="btn btn-dark">Volver</a>
+    <a href="CARRITO.aspx?id=<%#Eval("id") %>" class="btn btn-danger">Comprar</a>
         
   </div>
 </div>

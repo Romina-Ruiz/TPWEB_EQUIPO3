@@ -27,20 +27,24 @@ namespace TPWEB_EQUIPO3
             
             Session.Add("listacarrito", listacarrito);
 
+                       
             int id = int.Parse(Request.QueryString["id"]);
+         
             
-                        
-            Articulo seleccionado = listaOriginal.Find(x => x.Id == id);
-            listacarrito.Add(seleccionado);
+                Articulo seleccionado = listaOriginal.Find(x => x.Id == id);
+                listacarrito.Add(seleccionado);
 
-            dgvCarrito.DataSource = listacarrito;
-            dgvCarrito.DataBind();
+                dgvCarrito.DataSource = listacarrito;
+                dgvCarrito.DataBind();
+
+                  
+            
 
         }
 
         protected void dgvCarrito_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            /*
             int id =int.Parse(dgvCarrito.SelectedDataKey.Value.ToString());
 
           
@@ -52,7 +56,7 @@ namespace TPWEB_EQUIPO3
 
           // dgvCarrito.DataSource = Session["listacarrito"];
           // dgvCarrito.DataBind();
-
+            */
 
         }
     }

@@ -26,6 +26,9 @@
         <h2>NUESTROS ARTICULOS</h2>
 
 
+            <asp:TextBox ID="tbxbuscar" runat="server" ReadOnly="False" />
+            <asp:Button Text="BUSCAR" class="btn btn-success" OnClick="Unnamed_Click1" runat="server" />
+
     </div>
 
 
@@ -44,7 +47,7 @@
         <div cssclass="card-body">
             <h5 cssclass="Card title"><%#Eval("Nombre_Articulo") %></h5>
             <p cssclass="Card-text"><%#Eval("_Descripcion") %></p>           
-            <a href="DetalleArticulo.aspx?id=<%#Eval("id") %>" class="btn btn-outline-primary">Ver detalles</a>
+            <a href="DetalleArticulo.aspx?id=<%#Eval("id") %>" class="btn btn-dark">Ver detalles</a>
         </div> 
 
 

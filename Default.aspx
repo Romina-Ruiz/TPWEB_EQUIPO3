@@ -20,7 +20,7 @@
    
         <div class="contenedorBienvenido">
            <div class="texto">              
-               <h2>BIENVENIDOS</h2>
+               <h1>BIENVENIDOS</h1>
            </div>
         </div>
 

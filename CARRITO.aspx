@@ -8,7 +8,7 @@
 
     <style>
         .Fondo {
-            background-color: brown;
+            background-color: darkgray;
             color: aliceblue;
             padding: 50px;
             text-align: center;
@@ -25,9 +25,10 @@
 
 
 
-    <div>
+    <div class="table-secondary">
          <div class="col-sm-9 p-3">
-        <asp:GridView ID="dgvCarrito" DataKeyNames="Id" OnSelectedIndexChanged="dgvCarrito_SelectedIndexChanged" runat="server" CssClass="table" AutoGenerateColumns="false">
+             
+        <asp:GridView ID="dgvCarrito" DataKeyNames="Id" OnSelectedIndexChanged="dgvCarrito_SelectedIndexChanged" runat="server" cssClass="table table-secondary dark" AutoGenerateColumns="false">
                       
  
             <columns>
@@ -44,7 +45,12 @@
         </asp:GridView>
               </div>
 
-        <a href="COMPRAR.aspx" class="btn btn-secondary">Volver</a>
+        <div class="col-md-4"">
+              
+            <a href="COMPRAR.aspx" class="btn btn-dark">VOLVER</a>
+
+        </div>
+      
 
 
     </div>

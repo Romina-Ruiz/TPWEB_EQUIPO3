@@ -4,10 +4,9 @@
 }
 
 .contenedorBienvenido .texto {
-
     text-align: center;
-    color: white; 
-
+    color: white;
+    font-size: 500px;
 }
 
 .ingresar .texto2 {

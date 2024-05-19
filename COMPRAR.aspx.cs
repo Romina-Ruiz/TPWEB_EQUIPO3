@@ -37,6 +37,7 @@ namespace TPWEB_EQUIPO3
         }
         protected void Page_Load(object sender, EventArgs e)
         {
+         
 
            cargar();      
 
@@ -46,7 +47,39 @@ namespace TPWEB_EQUIPO3
             cargar();          
            
         }
-        
 
+        protected void Unnamed_Click1(object sender, EventArgs e)
+        {
+
+            List<Articulo> listafiltrada;
+
+            string filtro = tbxbuscar.ToString();
+
+            if (filtro.Length >= 3)
+            {
+                listafiltrada = ListaArticulos.FindAll(x => x.Nombre_Articulo.ToUpper().Contains(filtro.ToUpper()) || x.des_categoria.ToUpper().Contains(filtro.ToUpper()));
+
+            }
+            else
+            {
+
+                listafiltrada = ListaArticulos;
+
+            }
+
+
+
+
+            //rpArticulos.DataSource = null;
+            rpArticulos.DataSource = listafiltrada;
+            rpArticulos.DataBind();
+
+
+
+
+
+
+
+        }
     }
  }

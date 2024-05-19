@@ -22,7 +22,7 @@
 
 
 <body>
-    <form id="form1" runat="server">
+    <form id="form1"  runat="server">
 
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
@@ -34,7 +34,7 @@
                   <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarScroll">
-                  <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                  <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 500px;">
 
 
                       <li class="nav-item dropdown">
@@ -72,15 +72,12 @@
         <footer class="piePag">        
                         
             <h1 class="contactanos">                
-                Contactanos (011)-111 1111
-            </h1>
-
-            <div class="red social">
                 
-                <a href="#" class="fa fa-facebook"></a>
-                <a href="#" class="fa fa-instagram"></a>
+                Contactanos (011)-111 1111
+          
+                </h1>
 
-            </div>        
+          >        
 
         </footer>
 

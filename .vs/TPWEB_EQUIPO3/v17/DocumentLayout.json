@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\romina\\documents\\github\\tpweb_equipo3\\tpweb_equipo3\\tpweb_equipo3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +11,44 @@
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|c:\\users\\romina\\documents\\github\\tpweb_equipo3\\tpweb_equipo3\\tpweb_equipo3\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\master.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\master.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:comprar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,22 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3A05DAB-9F43-4329-BB55-36269C13858A}|dominio\\dominio.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A05DAB-9F43-4329-BB55-36269C13858A}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\master.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\master.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4F4A30F4-928F-4ED5-8205-311B81DEA2C3}|TPWEB_EQUIPO3.csproj|solutionrelative:stylo\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CATEGORIAS.aspx",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\CATEGORIAS.aspx",
               "RelativeDocumentMoniker": "CATEGORIAS.aspx",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
@@ -102,33 +102,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CARRITO.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
               "RelativeDocumentMoniker": "CARRITO.aspx.cs",
               "ToolTip": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\CARRITO.aspx.cs",
               "RelativeToolTip": "CARRITO.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwDUAAAAMAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T20:53:51.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "COMPRAR.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
               "RelativeDocumentMoniker": "COMPRAR.aspx.cs",
               "ToolTip": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\COMPRAR.aspx.cs",
               "RelativeToolTip": "COMPRAR.aspx.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA2wBYAAAAKAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T06:17:15.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T06:17:15.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "COMPRAR.aspx",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\COMPRAR.aspx",
               "RelativeDocumentMoniker": "COMPRAR.aspx",
@@ -140,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DetalleArticulo.aspx",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\DetalleArticulo.aspx",
               "RelativeDocumentMoniker": "DetalleArticulo.aspx",
@@ -152,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DetalleArticulo.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\DetalleArticulo.aspx.cs",
               "RelativeDocumentMoniker": "DetalleArticulo.aspx.cs",
@@ -164,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
@@ -176,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CARRITO.aspx",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\CARRITO.aspx",
               "RelativeDocumentMoniker": "CARRITO.aspx",
@@ -189,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "master.css",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Stylo\\master.css",
               "RelativeDocumentMoniker": "Stylo\\master.css",
@@ -197,17 +196,18 @@
               "RelativeToolTip": "Stylo\\master.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-17T15:52:36.241Z"
+              "WhenOpened": "2024-05-17T15:52:36.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "home.css",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Stylo\\home.css",
               "RelativeDocumentMoniker": "Stylo\\home.css",
               "ToolTip": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Stylo\\home.css",
               "RelativeToolTip": "Stylo\\home.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-17T15:50:25.309Z"
             },
@@ -225,19 +225,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "Default.css",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Stylo\\Default.css",
               "RelativeDocumentMoniker": "Stylo\\Default.css",
               "ToolTip": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Stylo\\Default.css",
               "RelativeToolTip": "Stylo\\Default.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-17T15:07:19.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",
@@ -250,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HOME.aspx",
               "DocumentMoniker": "C:\\Users\\Romina\\Documents\\GitHub\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\TPWEB_EQUIPO3\\HOME.aspx",
               "RelativeDocumentMoniker": "HOME.aspx",
