@@ -24,12 +24,12 @@ namespace TPWEB_EQUIPO3
             List<Articulo> listacarrito;
            
             listacarrito = Session["listacarrito"] != null ? (List<Articulo>)Session["listacarrito"] : new List<Articulo>();
+            
             Session.Add("listacarrito", listacarrito);
 
             int id = int.Parse(Request.QueryString["id"]);
             
                         
-
             Articulo seleccionado = listaOriginal.Find(x => x.Id == id);
             listacarrito.Add(seleccionado);
 
@@ -37,10 +37,24 @@ namespace TPWEB_EQUIPO3
             dgvCarrito.DataBind();
 
         }
-        
+
+        protected void dgvCarrito_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            int id =int.Parse(dgvCarrito.SelectedDataKey.Value.ToString());
+
+          
+            List<Articulo> temporal = (List<Articulo>)Session["listacarrito"];
            
+            Articulo seleccionado= temporal.Find(x => x.Id == id);
+            temporal.Remove(seleccionado);
+            Session["listacarrito"]= temporal;
+
+          // dgvCarrito.DataSource = Session["listacarrito"];
+          // dgvCarrito.DataBind();
 
 
+        }
     }
    
 }
