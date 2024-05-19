@@ -6,7 +6,7 @@
 .contenedorBienvenido .texto {
     text-align: center;
     color: white;
-    font-size: 500px;
+  
 }
 
 .ingresar .texto2 {
@@ -15,7 +15,7 @@
 }
 
     .ingresar .texto2 img {
-        border-radius: 500px;
+        border-radius: 50px;
         opacity: 1;
         transition: opacity 0.5s ease;
     }
