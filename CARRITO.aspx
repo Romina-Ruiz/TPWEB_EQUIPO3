@@ -46,7 +46,7 @@
                             <br />  
                             <br />  
                             <br />  
-                           <asp:Button Text="Eliminar" ID="btEliminar" CommandArgument='<%#Eval("id") %>' CommandName="Eliminar" class="btn btn-danger" OnClick="btEliminar_Click" runat="server" />
+                           <asp:Button Text="Eliminar" ID="btEliminar" CommandArgument='<%#Eval("id") %>' CommandName="Eliminar" class="btn btn-danger" OnCommand="btEliminar_Command" runat="server" />
                           
                       </div>
                     </div>
