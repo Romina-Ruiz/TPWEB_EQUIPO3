@@ -20,6 +20,7 @@
 
 
         <h2>CARRITO </h2>
+       
 
     </div>
 
@@ -30,8 +31,7 @@
             
              <asp:Repeater ID="rpCarrito" runat="server" >
                  <ItemTemplate> 
-
-
+                    
                      <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                      <div class="col-md-4">
@@ -47,7 +47,7 @@
                             <br />  
                             <br />  
                            <asp:Button Text="Eliminar" ID="btEliminar" CommandArgument='<%#Eval("id") %>' CommandName="Eliminar" class="btn btn-danger" OnClick="btEliminar_Click" runat="server" />
-
+                          
                       </div>
                     </div>
                     </div>
@@ -70,7 +70,9 @@
 
         <div class="col-md-6"">
             <br />  
-            
+             <%   if(rpCarrito.Items.Count == 0){ %>
+ <h5 cssclass="card-title">CARRITO VACIO DEBES AGREGAR UN ARTICULO</h5>
+ <% } %>
             <a href="COMPRAR.aspx" class="btn btn-dark">VOLVER</a>
              
             <br />  

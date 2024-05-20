@@ -22,38 +22,45 @@ namespace TPWEB_EQUIPO3
             List<Articulo> listaOriginal = negocio.listar();
 
             List<Articulo> listacarrito;
-           
+
             listacarrito = Session["listacarrito"] != null ? (List<Articulo>)Session["listacarrito"] : new List<Articulo>();
-            
+
             Session.Add("listacarrito", listacarrito);
 
             rpCarrito.DataSource = listacarrito;
             rpCarrito.DataBind();
 
-
-            int id = int.Parse(Request.QueryString["id"]);
+            if (Request.QueryString["id"] != null)
+            {
+                int id = int.Parse(Request.QueryString["id"]);
 
 
 
                 Articulo seleccionado = listaOriginal.Find(x => x.Id == id);
                 listacarrito.Add(seleccionado);
-
                 rpCarrito.DataSource = listacarrito;
                 rpCarrito.DataBind();
 
-
-
+            }
             
+            
+               
+            
+
+
+
+
+
         }
 
-        
-    
+
+
 
 
         protected void btEliminar_Click(object sender, EventArgs e)
         {
 
-           int aux = int.Parse(((Button)sender).CommandArgument);
+            int aux = int.Parse(((Button)sender).CommandArgument);
 
 
             List<Articulo> temporal = (List<Articulo>)Session["listacarrito"];
@@ -62,17 +69,17 @@ namespace TPWEB_EQUIPO3
             temporal.Remove(seleccionado);
             Session["listacarrito"] = temporal;
 
-            
-            
-                rpCarrito.DataSource = null;
-                rpCarrito.DataSource = Session["listacarrito"];
-                rpCarrito.DataBind();
 
-            
+
+            rpCarrito.DataSource = null;
+            rpCarrito.DataSource = Session["listacarrito"];
+            rpCarrito.DataBind();
+
+
 
 
 
         }
     }
-   
+
 }
